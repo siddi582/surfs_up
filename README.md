@@ -12,7 +12,7 @@ Analyize temperatures trends in order to help determine if opening a surf and ic
 - June min temperatures are 64 and max 85.
 - The average (mean) temperature is 74.94.
 - The standard deviation is 3.26.
--
+
 ![JuneTemps](https://user-images.githubusercontent.com/114044192/205474602-84ad390a-8c64-4969-8abf-dea1837de271.png)
 
 ### December Temperatures Analysis
