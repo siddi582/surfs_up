@@ -1,4 +1,4 @@
-# *Surfs Up Dude!
+# Surfs Up Dude!
 
 Module 9 Challenge - SQL ALchemy
 ## Objective
